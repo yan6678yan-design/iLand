@@ -1,0 +1,40 @@
+{
+  "locale": "de-DE",
+  "configuration": "Release",
+  "device": "iPhone 16 Pro Max",
+  "os": "iOS 18.6",
+  "size": [
+    1320,
+    2868
+  ],
+  "screenshots": [
+    {
+      "file": "01-Home.png",
+      "sha256": "ef357e6a0f41ae888d18f922f278e5b89a176e142b5b2ae5a08a75e31207d5b2"
+    },
+    {
+      "file": "02-Designs.png",
+      "sha256": "1b2e520995f509c0689fecfdc3b704b74b020f8fbd57ad26e534fb95ecb1ddce"
+    },
+    {
+      "file": "03-Deine-Island.png",
+      "sha256": "8acb771c3c7a6c92c5d6b9fbfc91c0f09b1cbed84d5dc6eb06e85dd513da13de"
+    },
+    {
+      "file": "04-Design-Studio.png",
+      "sha256": "d288a0e052323d7c7cd75e13dbca7cd2dc713dd7af42ffbdb513cf649fd34dce"
+    },
+    {
+      "file": "05-Fokus-Timer.png",
+      "sha256": "41a274525c5b4f15c53e8542b212ea3d83eb686e03b412df637aa9c2a4e68651"
+    },
+    {
+      "file": "06-Regeln.png",
+      "sha256": "64646ed43e49d38a87ac80d19a2de8a413993deb95c10460c9e9e050c5f75ec4"
+    },
+    {
+      "file": "07-Dark-Mode.png",
+      "sha256": "acc98bc666c3190a4c958ad03cbde64e2cedea9cf88ffa976c6e118376337ed2"
+    }
+  ]
+}

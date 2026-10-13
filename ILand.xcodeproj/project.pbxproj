@@ -1,0 +1,677 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		ED4EE13E1B0E38085C6410A8 /* ILandWidgets.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = E74D5CD8AD45990A9D15D82A /* ILandWidgets.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2E941E840E6D4AAC6EEDECD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 45FA683D0748F19D40C3614B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 415AD6D4E47B6905F8695085;
+			remoteInfo = ILand;
+		};
+		E7279E1A203C8415ADC0A803 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 45FA683D0748F19D40C3614B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 74779EBF6EE5A652E23EB8E0;
+			remoteInfo = ILandWidgets;
+		};
+		F6A3130A70231AA0342D8BB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 45FA683D0748F19D40C3614B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 415AD6D4E47B6905F8695085;
+			remoteInfo = ILand;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		6B4F4B218859AD7DD1E09288 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				ED4EE13E1B0E38085C6410A8 /* ILandWidgets.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		74197EFB0931501741BF0911 /* ILandTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = ILandTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B466ED675D9A9E169C21697 /* ILand.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ILand.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC7EFE4A5478FEA382DE08F9 /* ILandUITests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = ILandUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E74D5CD8AD45990A9D15D82A /* ILandWidgets.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = ILandWidgets.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		9546DF09BA75AD213294134E /* Exceptions for "ILand" folder in "ILand" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 415AD6D4E47B6905F8695085 /* ILand */;
+		};
+		9F75AB5080BDED92BA6E584A /* Exceptions for "ILandWidgets" folder in "ILandWidgets" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 74779EBF6EE5A652E23EB8E0 /* ILandWidgets */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		1BC9431494DADEBFA195813F /* Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		B60C6A4991E26449D73ADFF1 /* ILand */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				9546DF09BA75AD213294134E /* Exceptions for "ILand" folder in "ILand" target */,
+			);
+			path = ILand;
+			sourceTree = "<group>";
+		};
+		C9A312FFDF1F0635880B87AF /* UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = UITests;
+			sourceTree = "<group>";
+		};
+		CF21C924257FA08078D2F047 /* Shared */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		EFC095FE6F489B9E2E7FE17B /* ILandWidgets */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				9F75AB5080BDED92BA6E584A /* Exceptions for "ILandWidgets" folder in "ILandWidgets" target */,
+			);
+			path = ILandWidgets;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXGroup section */
+		03F4F7421AD2D097A6A96640 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7B466ED675D9A9E169C21697 /* ILand.app */,
+				74197EFB0931501741BF0911 /* ILandTests.xctest */,
+				DC7EFE4A5478FEA382DE08F9 /* ILandUITests.xctest */,
+				E74D5CD8AD45990A9D15D82A /* ILandWidgets.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FB5C5C6E227CCBDD753F39F8 = {
+			isa = PBXGroup;
+			children = (
+				B60C6A4991E26449D73ADFF1 /* ILand */,
+				EFC095FE6F489B9E2E7FE17B /* ILandWidgets */,
+				CF21C924257FA08078D2F047 /* Shared */,
+				1BC9431494DADEBFA195813F /* Tests */,
+				C9A312FFDF1F0635880B87AF /* UITests */,
+				03F4F7421AD2D097A6A96640 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		415AD6D4E47B6905F8695085 /* ILand */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8EF67ADAD873C3511A97304C /* Build configuration list for PBXNativeTarget "ILand" */;
+			buildPhases = (
+				0E5305CB661EB97DB4DF4D5F /* Sources */,
+				C39250F2388F449D17B28212 /* Resources */,
+				6B4F4B218859AD7DD1E09288 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				29DEA9C0E904AA5828995076 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				B60C6A4991E26449D73ADFF1 /* ILand */,
+				CF21C924257FA08078D2F047 /* Shared */,
+			);
+			name = ILand;
+			packageProductDependencies = (
+			);
+			productName = ILand;
+			productReference = 7B466ED675D9A9E169C21697 /* ILand.app */;
+			productType = "com.apple.product-type.application";
+		};
+		74779EBF6EE5A652E23EB8E0 /* ILandWidgets */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6D3C7672FB9055B679725184 /* Build configuration list for PBXNativeTarget "ILandWidgets" */;
+			buildPhases = (
+				35D0BF61BFD4CBACDB58EA67 /* Sources */,
+				2E6C735042F7A406A8626154 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CF21C924257FA08078D2F047 /* Shared */,
+				EFC095FE6F489B9E2E7FE17B /* ILandWidgets */,
+			);
+			name = ILandWidgets;
+			packageProductDependencies = (
+			);
+			productName = ILandWidgets;
+			productReference = E74D5CD8AD45990A9D15D82A /* ILandWidgets.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		863D71D4E271F30E9F95868F /* ILandTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 30445B2723A3E9E8146FD752 /* Build configuration list for PBXNativeTarget "ILandTests" */;
+			buildPhases = (
+				E06F17C8901E321A86927E9C /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				71FDE7BA3ADD4818EECD103E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				1BC9431494DADEBFA195813F /* Tests */,
+			);
+			name = ILandTests;
+			packageProductDependencies = (
+			);
+			productName = ILandTests;
+			productReference = 74197EFB0931501741BF0911 /* ILandTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B28028FB6FD225F61123F48F /* ILandUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 57DD2F5C69BC4F6F7DA522B3 /* Build configuration list for PBXNativeTarget "ILandUITests" */;
+			buildPhases = (
+				4AD0273DF3FA70315D6DF452 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				45FE2A8E0BC0AC8B4D275E06 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				C9A312FFDF1F0635880B87AF /* UITests */,
+			);
+			name = ILandUITests;
+			packageProductDependencies = (
+			);
+			productName = ILandUITests;
+			productReference = DC7EFE4A5478FEA382DE08F9 /* ILandUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		45FA683D0748F19D40C3614B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					415AD6D4E47B6905F8695085 = {
+						ProvisioningStyle = Automatic;
+					};
+					74779EBF6EE5A652E23EB8E0 = {
+						ProvisioningStyle = Automatic;
+					};
+					863D71D4E271F30E9F95868F = {
+						DevelopmentTeam = "";
+						ProvisioningStyle = Automatic;
+					};
+					B28028FB6FD225F61123F48F = {
+						DevelopmentTeam = "";
+						ProvisioningStyle = Automatic;
+						TestTargetID = 415AD6D4E47B6905F8695085;
+					};
+				};
+			};
+			buildConfigurationList = AB409963ADDF08AF4905F843 /* Build configuration list for PBXProject "ILand" */;
+			developmentRegion = de;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				de,
+			);
+			mainGroup = FB5C5C6E227CCBDD753F39F8;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 03F4F7421AD2D097A6A96640 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				415AD6D4E47B6905F8695085 /* ILand */,
+				74779EBF6EE5A652E23EB8E0 /* ILandWidgets */,
+				863D71D4E271F30E9F95868F /* ILandTests */,
+				B28028FB6FD225F61123F48F /* ILandUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2E6C735042F7A406A8626154 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C39250F2388F449D17B28212 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0E5305CB661EB97DB4DF4D5F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		35D0BF61BFD4CBACDB58EA67 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4AD0273DF3FA70315D6DF452 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E06F17C8901E321A86927E9C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		29DEA9C0E904AA5828995076 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 74779EBF6EE5A652E23EB8E0 /* ILandWidgets */;
+			targetProxy = E7279E1A203C8415ADC0A803 /* PBXContainerItemProxy */;
+		};
+		45FE2A8E0BC0AC8B4D275E06 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 415AD6D4E47B6905F8695085 /* ILand */;
+			targetProxy = 2E941E840E6D4AAC6EEDECD8 /* PBXContainerItemProxy */;
+		};
+		71FDE7BA3ADD4818EECD103E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 415AD6D4E47B6905F8695085 /* ILand */;
+			targetProxy = F6A3130A70231AA0342D8BB8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		090F1EB7CB9783CC45E0270B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = ILand/ILand.entitlements;
+				DEVELOPMENT_TEAM = 7NAS48FD56;
+				EXCLUDED_SOURCE_FILE_NAMES = (
+					BrandAssets.xcassets,
+					Brands.json,
+					BrandLicenses,
+					BrandSources.json,
+					"SimpleIcons-*.md",
+				);
+				INFOPLIST_FILE = ILandWidgets/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ch.yannis.ILand.widgets;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		1DED17A5038063F0BDB32306 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		257AAB1604B5E16F489EECEE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		2B6B00D19CFCDFFD49BEBB8F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = ILand/ILand.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 7NAS48FD56;
+				EXCLUDED_SOURCE_FILE_NAMES = (
+					BrandAssets.xcassets,
+					Brands.json,
+					BrandLicenses,
+					BrandSources.json,
+					"SimpleIcons-*.md",
+				);
+				INFOPLIST_FILE = ILand/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ch.yannis.ILand;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		31CCB496EE91A6F4BAEDB191 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ch.yannis.ILandTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ILand.app/ILand";
+			};
+			name = Debug;
+		};
+		43BED2F609D81049062CDC81 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ch.yannis.ILandTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ILand.app/ILand";
+			};
+			name = Release;
+		};
+		4FBF4596B3998F970992CEBF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ch.yannis.ILandUITests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_TARGET_NAME = ILand;
+			};
+			name = Debug;
+		};
+		56938CC7672E51F6A59B7537 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = ILand/ILand.entitlements;
+				DEVELOPMENT_TEAM = 7NAS48FD56;
+				INFOPLIST_FILE = ILandWidgets/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ch.yannis.ILand.widgets;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		92D72ACA6795AE31864B3B41 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = ILand/ILand.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 7NAS48FD56;
+				INFOPLIST_FILE = ILand/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ch.yannis.ILand;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		CE8845F88A7B6111A557865C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ch.yannis.ILandUITests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_TARGET_NAME = ILand;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		30445B2723A3E9E8146FD752 /* Build configuration list for PBXNativeTarget "ILandTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				31CCB496EE91A6F4BAEDB191 /* Debug */,
+				43BED2F609D81049062CDC81 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		57DD2F5C69BC4F6F7DA522B3 /* Build configuration list for PBXNativeTarget "ILandUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4FBF4596B3998F970992CEBF /* Debug */,
+				CE8845F88A7B6111A557865C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		6D3C7672FB9055B679725184 /* Build configuration list for PBXNativeTarget "ILandWidgets" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				56938CC7672E51F6A59B7537 /* Debug */,
+				090F1EB7CB9783CC45E0270B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		8EF67ADAD873C3511A97304C /* Build configuration list for PBXNativeTarget "ILand" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				92D72ACA6795AE31864B3B41 /* Debug */,
+				2B6B00D19CFCDFFD49BEBB8F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		AB409963ADDF08AF4905F843 /* Build configuration list for PBXProject "ILand" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				257AAB1604B5E16F489EECEE /* Debug */,
+				1DED17A5038063F0BDB32306 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 45FA683D0748F19D40C3614B /* Project object */;
+}

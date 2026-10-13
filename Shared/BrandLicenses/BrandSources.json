@@ -1,0 +1,2081 @@
+[
+  {
+    "id": "audi",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "daebead0fb61bc8cd88e90adabca5161a9b52a8d4202ce89c18daeab6bd70d7e",
+    "metadata": {
+      "title": "Audi",
+      "slug": "audi",
+      "hex": "BB0A30",
+      "source": "https://www.audi.com/ci/en/intro/basics/rings.html",
+      "guidelines": "https://www.audi.com/ci/en/intro/basics/rings.html"
+    }
+  },
+  {
+    "id": "bmw",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "d2a396f98f388b06861ed887a0d9830ed5e32224726c2acf000250e6ef289dcf",
+    "metadata": {
+      "title": "BMW",
+      "slug": "bmw",
+      "hex": "0066B1",
+      "source": "https://bmw.com"
+    }
+  },
+  {
+    "id": "porsche",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "cc78f5661cf80886fa5d94bd13a0f32eca0ba39716dd8154f454bb992c8864a0",
+    "metadata": {
+      "title": "Porsche",
+      "slug": "porsche",
+      "hex": "B12B28",
+      "source": "https://www.porsche.com"
+    }
+  },
+  {
+    "id": "ferrari",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "583319b753b043bcfd0a06c3d5889cfe36c30d81262635ed5d24e14f31fa9735",
+    "metadata": {
+      "title": "Ferrari",
+      "slug": "ferrari",
+      "hex": "D40000",
+      "source": "https://www.ferrari.com"
+    }
+  },
+  {
+    "id": "lamborghini",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "c1c5fed94cf25f0855b05853fcaebdfb640899b34c733376a1c486196bd7e5e7",
+    "metadata": {
+      "title": "Lamborghini",
+      "slug": "lamborghini",
+      "hex": "B6A272",
+      "source": "https://www.lamborghini.com"
+    }
+  },
+  {
+    "id": "bugatti",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "86a5c1e22628c7d4b155d41560cd3fdbda486e7feceb38378f5f94764b7806a3",
+    "metadata": {
+      "title": "Bugatti",
+      "slug": "bugatti",
+      "hex": "000000",
+      "source": "https://newsroom.bugatti.com"
+    }
+  },
+  {
+    "id": "bentley",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "1f07419b93ca531876dcdddae4627e3b0588e2a05479b7cf57bb1419603b80f4",
+    "metadata": {
+      "title": "Bentley",
+      "slug": "bentley",
+      "hex": "333333",
+      "source": "https://en.wikipedia.org/wiki/File:Bentley_logo_2.svg"
+    }
+  },
+  {
+    "id": "astonmartin",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "c6423d510896fb31d55f51b48c26ca0f3849d4fe107c576a1c50153314bd86de",
+    "metadata": {
+      "title": "Aston Martin",
+      "slug": "astonmartin",
+      "hex": "00665E",
+      "source": "https://www.astonmartin.com"
+    }
+  },
+  {
+    "id": "mclaren",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "f53570a9dde333b4f55211831baa3cad69d6c8b01681405a232e97a883506a26",
+    "metadata": {
+      "title": "McLaren",
+      "slug": "mclaren",
+      "hex": "FF0000",
+      "source": "https://cars.mclaren.com"
+    }
+  },
+  {
+    "id": "maserati",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "be4ff671866eb694fa6f5756a5ffdef5b9694c4b3c895ff01427b9d98d144b91",
+    "metadata": {
+      "title": "Maserati",
+      "slug": "maserati",
+      "hex": "0C2340",
+      "source": "https://www.stellantis.com/en/brands/maserati"
+    }
+  },
+  {
+    "id": "rollsroyce",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "08b4e1fec2499029d9ec3e8d76d59857b5ae22856261096cdde07cdc5424e0b0",
+    "metadata": {
+      "title": "Rolls-Royce",
+      "slug": "rollsroyce",
+      "hex": "281432",
+      "source": "https://www.rolls-roycemotorcars.com"
+    }
+  },
+  {
+    "id": "tesla",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "4b94d9eaf23849d6feec7a9c819e3699a35cbb76045ba7d482d17cbcc97414a5",
+    "metadata": {
+      "title": "Tesla",
+      "slug": "tesla",
+      "hex": "CC0000",
+      "source": "https://www.tesla.com/tesla-gallery"
+    }
+  },
+  {
+    "id": "toyota",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "70a20e8335255cff3311314636ab15dbc0c5941a52d1ae5ea3471e85f40e7507",
+    "metadata": {
+      "title": "Toyota",
+      "slug": "toyota",
+      "hex": "EB0A1E",
+      "source": "https://www.toyota.com/brandguidelines/logo/",
+      "guidelines": "https://www.toyota.com/brandguidelines/"
+    }
+  },
+  {
+    "id": "honda",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "ae97b9478f29718f95fc7956a3971456a8a458e9ff48f24b903ef1d6b68f2de1",
+    "metadata": {
+      "title": "Honda",
+      "slug": "honda",
+      "hex": "E40521",
+      "source": "https://www.honda.ie"
+    }
+  },
+  {
+    "id": "acura",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "5acb0e4d2935d9902cf6f06b7abb6b4390e7bbe204f47e0b1bd0df3a3fc9e642",
+    "metadata": {
+      "title": "Acura",
+      "slug": "acura",
+      "hex": "000000",
+      "source": "https://www.acura.com",
+      "guidelines": "https://www.honda.com/privacy/terms-and-conditions"
+    }
+  },
+  {
+    "id": "nissan",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "97980fa3135dfeffb72a9acdf3ee23b21bf9a53b8475e7b5cff9ce6df645cf5c",
+    "metadata": {
+      "title": "Nissan",
+      "slug": "nissan",
+      "hex": "C3002F",
+      "source": "https://www.nissan.ie"
+    }
+  },
+  {
+    "id": "infiniti",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "f88f745ff6fd051f1186c17864520ebd41cdd4175ee4dd99e20d673928eae097",
+    "metadata": {
+      "title": "INFINITI",
+      "slug": "infiniti",
+      "hex": "020B24",
+      "source": "https://www.infiniti.com"
+    }
+  },
+  {
+    "id": "mazda",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "e25b1b282b433e90afb5a8053f50dd69c83e786d08794516136adeb60a0f1bb9",
+    "metadata": {
+      "title": "Mazda",
+      "slug": "mazda",
+      "hex": "101010",
+      "source": "https://www.mazda.com/en/about/profile/library/"
+    }
+  },
+  {
+    "id": "subaru",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "ce64a04d98a02272319baf0fb03576fea64878a40aff5eb36d137e23127109c3",
+    "metadata": {
+      "title": "Subaru",
+      "slug": "subaru",
+      "hex": "013C74",
+      "source": "https://commons.wikimedia.org/wiki/File:Subaru_logo.svg"
+    }
+  },
+  {
+    "id": "mitsubishi",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "d855e4d9d41f87287c917b1e6bb4baaf868957466a9ae1f64db34a1bdf7255c3",
+    "metadata": {
+      "title": "Mitsubishi",
+      "slug": "mitsubishi",
+      "hex": "E60012",
+      "source": "https://www.mitsubishi.com"
+    }
+  },
+  {
+    "id": "suzuki",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "3ef67701d67dcb096645dbaf16cf5cad9dc9f04826d394b471a9f43aee4a2596",
+    "metadata": {
+      "title": "Suzuki",
+      "slug": "suzuki",
+      "hex": "E30613",
+      "source": "https://www.suzuki.ie"
+    }
+  },
+  {
+    "id": "hyundai",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "dcd2d6c20e7c4bc431f7c3a1108c4493b007f978b8ee6f48b007406cc8435937",
+    "metadata": {
+      "title": "Hyundai",
+      "slug": "hyundai",
+      "hex": "002C5E",
+      "source": "https://www.hyundai.com"
+    }
+  },
+  {
+    "id": "kia",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "bbdeeab899331fc6181949c2b31686208a88d7afc69d182b54dccc138b8e4843",
+    "metadata": {
+      "title": "Kia",
+      "slug": "kia",
+      "hex": "05141F",
+      "source": "https://www.kia.com"
+    }
+  },
+  {
+    "id": "ford",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "933a0ad57caec864d69c4afb43c316018ebc54bd8e76244ffe545197236299c1",
+    "metadata": {
+      "title": "Ford",
+      "slug": "ford",
+      "hex": "00274E",
+      "source": "https://secure.ford.com/brochures/"
+    }
+  },
+  {
+    "id": "chevrolet",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "c656f8d607bc0230a7a239981b24d79cb7a1550d43c476ff486cf8aa360646f6",
+    "metadata": {
+      "title": "Chevrolet",
+      "slug": "chevrolet",
+      "hex": "CD9834",
+      "source": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/shopping-tools/download-catalog/02-pdf/2019-chevrolet-corvette-catalog.pdf"
+    }
+  },
+  {
+    "id": "cadillac",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "aec91d6dba7fd61378188bd74672909a9695d02b933f15580a7fe9620216fe70",
+    "metadata": {
+      "title": "Cadillac",
+      "slug": "cadillac",
+      "hex": "000000",
+      "source": "https://www.cadillac.com",
+      "guidelines": "https://www.gm.com/copyright-trademark"
+    }
+  },
+  {
+    "id": "jeep",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "b06a5248c18bf0c0b3181dc52f20558f8e85d6952424f52e7b285410bfd47864",
+    "metadata": {
+      "title": "Jeep",
+      "slug": "jeep",
+      "hex": "000000",
+      "source": "https://commons.wikimedia.org/wiki/File:Jeep_logo.svg"
+    }
+  },
+  {
+    "id": "chrysler",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "760fe7ef4fccc504bee0a9f4ac91e2ca23bffd9c294aa92a3922538b50c3c403",
+    "metadata": {
+      "title": "Chrysler",
+      "slug": "chrysler",
+      "hex": "000000",
+      "source": "https://www.stellantis.com/en/brands/chrysler"
+    }
+  },
+  {
+    "id": "ram",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "fc5e3086092934d242f34c0e3098b1e745c0c975349702015e4298199250b9b0",
+    "metadata": {
+      "title": "Ram",
+      "slug": "ram",
+      "hex": "000000",
+      "source": "https://www.fcaci.com/x/RAMv15",
+      "guidelines": "https://www.fcaci.com/x/RAMv15"
+    }
+  },
+  {
+    "id": "volkswagen",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "de8379968dc31340ab9a06fd54f01d59be56f9846bc07938b9da5bd24407034f",
+    "metadata": {
+      "title": "Volkswagen",
+      "slug": "volkswagen",
+      "hex": "151F5D",
+      "source": "https://www.vw.com"
+    }
+  },
+  {
+    "id": "volvo",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "3323cdf4d0f8aabe89f1ecd6d8169aacbd2e3a54a9791d75918ade418f538f19",
+    "metadata": {
+      "title": "Volvo",
+      "slug": "volvo",
+      "hex": "003057",
+      "source": "https://www.media.volvocars.com/global/en-gb/logos"
+    }
+  },
+  {
+    "id": "polestar",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "543ac583c8f6113152e310d7c7f6fbdf1516b28c3aed0d2cf3121030f406aebf",
+    "metadata": {
+      "title": "Polestar",
+      "slug": "polestar",
+      "hex": "000000",
+      "source": "https://commons.wikimedia.org/wiki/File:Polestar_logo_2020.svg"
+    }
+  },
+  {
+    "id": "skoda",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "72ca42ed6cc6d393e00d0aea0eee4aeae96cc0c86ca8e727145fbf8b6ff24c38",
+    "metadata": {
+      "title": "ŠKODA",
+      "slug": "skoda",
+      "hex": "0E3A2F",
+      "source": "https://www.skoda-connect.com"
+    }
+  },
+  {
+    "id": "seat",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "662eff13aa274b786e3231e72ca7d65ae9edcfcd5937ca4efab487f2d3825e13",
+    "metadata": {
+      "title": "SEAT",
+      "slug": "seat",
+      "hex": "33302E",
+      "source": "https://www.seat.es"
+    }
+  },
+  {
+    "id": "peugeot",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "52eac20d95c797916ee5ce7344a0e2a647472a9e560af2f2e1e4f45f0de7edf3",
+    "metadata": {
+      "title": "Peugeot",
+      "slug": "peugeot",
+      "hex": "000000",
+      "source": "https://www.peugeot.co.uk"
+    }
+  },
+  {
+    "id": "citroen",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "99a313e559f14eec272fea440d1ae3c92ac25438145efd31276da50192fefc28",
+    "metadata": {
+      "title": "Citroën",
+      "slug": "citroen",
+      "hex": "DA291C",
+      "source": "https://www.stellantis.com/en/brands/citroen"
+    }
+  },
+  {
+    "id": "renault",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "59a8b5df584c85f680e2f81b8255a3bbf562ce291c5a9db6a78f393c4ecad7d6",
+    "metadata": {
+      "title": "Renault",
+      "slug": "renault",
+      "hex": "FFCC33",
+      "source": "https://media.renaultgroup.com"
+    }
+  },
+  {
+    "id": "dacia",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "761cb03b30cead56709cd5ead436a086e15b214dc97e49acedae925c4988bcca",
+    "metadata": {
+      "title": "Dacia",
+      "slug": "dacia",
+      "hex": "646B52",
+      "source": "https://commons.wikimedia.org/wiki/File:Dacia-Logo-2021.svg"
+    }
+  },
+  {
+    "id": "opel",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "ce74d329dfd29a974ef8c126d6ecdc53e4bb7e8505641f38e6cd8d0030efaa87",
+    "metadata": {
+      "title": "Opel",
+      "slug": "opel",
+      "hex": "F7FF14",
+      "source": "https://www.stellantis.com/en/brands/opel"
+    }
+  },
+  {
+    "id": "mini",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "b6a2b61d674bf15ef45a468962eca1faac42234ff24b13812c4a16bbc71fcb77",
+    "metadata": {
+      "title": "Mini",
+      "slug": "mini",
+      "hex": "000000",
+      "source": "https://mini.com"
+    }
+  },
+  {
+    "id": "dior",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "4f43c97f922c31af2bbee9960722202c547f00f7fb8695152b1aa41d4c149354",
+    "metadata": {
+      "title": "Dior",
+      "slug": "dior",
+      "hex": "000000",
+      "source": "https://www.dior.com"
+    }
+  },
+  {
+    "id": "hermes",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "2721fe2666d2adf475712cff593304e8d8ab799052203448ae30ed38f623690c",
+    "metadata": {
+      "title": "Hermes",
+      "slug": "hermes",
+      "hex": "0091CD",
+      "source": "https://www.myhermes.de/assets/touchicons/favicon.svg"
+    }
+  },
+  {
+    "id": "thenorthface",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "fbcb2a20eb4ca93a32d1bba6edd128a0a717b088417ee62bd5788dc5e6e187e8",
+    "metadata": {
+      "title": "The North Face",
+      "slug": "thenorthface",
+      "hex": "000000",
+      "source": "https://www.thenorthface.com"
+    }
+  },
+  {
+    "id": "adidas",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "914191458c0f416cfb1e5ad5750c55e87bd9a6cdc38259cfba70932b30a9237b",
+    "metadata": {
+      "title": "Adidas",
+      "slug": "adidas",
+      "hex": "000000",
+      "source": "https://www.adidas.com"
+    }
+  },
+  {
+    "id": "nike",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "1792451e1b6393bd1d7153830f8aa55a0a49eddd1c3b65ed6fa13c68d7d5a547",
+    "metadata": {
+      "title": "Nike",
+      "slug": "nike",
+      "hex": "111111",
+      "source": "https://www.nike.com"
+    }
+  },
+  {
+    "id": "puma",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "67a04c6aae392c014fd410d2e9df0bfbc6bab2bfc8171d46373a0b39c98a605d",
+    "metadata": {
+      "title": "Puma",
+      "slug": "puma",
+      "hex": "242B2F",
+      "source": "https://us.puma.com"
+    }
+  },
+  {
+    "id": "reebok",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "4f2181f891cfaefc82d9b79df1a12b0b10bd53c71dfdddb4447fe930e304c8f4",
+    "metadata": {
+      "title": "Reebok",
+      "slug": "reebok",
+      "hex": "E41D1B",
+      "source": "https://www.reebok.com/us"
+    }
+  },
+  {
+    "id": "underarmour",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "51a8a19364eac8467711387823ebb5dc40c6c84c8dfe8c349eb1f7d5b90d3166",
+    "metadata": {
+      "title": "Under Armour",
+      "slug": "underarmour",
+      "hex": "1D1D1D",
+      "source": "https://www.underarmour.com/en-us"
+    }
+  },
+  {
+    "id": "newbalance",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "d8996468a6716a21df0db1b02378bdeecc772f6e66e633f76478970548c8e781",
+    "metadata": {
+      "title": "New Balance",
+      "slug": "newbalance",
+      "hex": "CF0A2C",
+      "source": "https://www.newbalance.com"
+    }
+  },
+  {
+    "id": "fila",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "0414210c827d11f3ac60c1d885387a8e462097fb8a679b28b97de595f6aeb0d9",
+    "metadata": {
+      "title": "Fila",
+      "slug": "fila",
+      "hex": "002D62",
+      "source": "https://www.fila.com"
+    }
+  },
+  {
+    "id": "jordan",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "58d8c99fc7454e30ca74168372051987614ca3468dcc7f6905b00520e0a470e4",
+    "metadata": {
+      "title": "Jordan",
+      "slug": "jordan",
+      "hex": "000000",
+      "source": "https://www.nike.com/jordan"
+    }
+  },
+  {
+    "id": "uniqlo",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "1c2e38f6f883f579f22d276a87692fef3b0d127d956434315204c89b2483ae0a",
+    "metadata": {
+      "title": "Uniqlo",
+      "slug": "uniqlo",
+      "hex": "FF0000",
+      "source": "https://www.uniqlo.com"
+    }
+  },
+  {
+    "id": "zara",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "6b689efc20e0eaafa2be433de39d2e6ab6f9e478af6b2e5fb6bcc10a1c96d124",
+    "metadata": {
+      "title": "Zara",
+      "slug": "zara",
+      "hex": "000000",
+      "source": "https://www.zara.com"
+    }
+  },
+  {
+    "id": "zalando",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "38e0468af811cb418eca217ae1d259e931fc3ff33fa012085e91e720aabceaa4",
+    "metadata": {
+      "title": "Zalando",
+      "slug": "zalando",
+      "hex": "FF6900",
+      "source": "https://www.zalando.co.uk"
+    }
+  },
+  {
+    "id": "apple",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "2a1509dccd25e6d2bc7a11a8e52941077e1a48555e192ce638699b9f083c2a7c",
+    "metadata": {
+      "title": "Apple",
+      "slug": "apple",
+      "hex": "000000",
+      "source": "https://www.apple.com"
+    }
+  },
+  {
+    "id": "samsung",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "4a241ca8ebab6e71883b172acb9fb454efa69f308e4f2c31ec80668aeb6627d9",
+    "metadata": {
+      "title": "Samsung",
+      "slug": "samsung",
+      "hex": "1428A0",
+      "source": "https://www.samsung.com/us/about-us/brand-identity/logo/",
+      "guidelines": "https://www.samsung.com/us/about-us/brand-identity/logo/"
+    }
+  },
+  {
+    "id": "sony",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "d012ec936e65a255f7b7b49a7e99c5aa7ab919fbc1487d8e09af82031c0e7090",
+    "metadata": {
+      "title": "Sony",
+      "slug": "sony",
+      "hex": "FFFFFF",
+      "source": "https://www.sony.com"
+    }
+  },
+  {
+    "id": "playstation",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "b68b4d7b63443759b9c4d77a5501c5758eeae06a6d594d278d5eb6cb4d3dbbe4",
+    "metadata": {
+      "title": "PlayStation",
+      "slug": "playstation",
+      "hex": "0070D1",
+      "source": "https://www.playstation.com/en-us/"
+    }
+  },
+  {
+    "id": "bose",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "b2e63f03d22e05f6cb3d3793c2598a13bcd82f38d25334420993bbc0493098db",
+    "metadata": {
+      "title": "Bose",
+      "slug": "bose",
+      "hex": "000000",
+      "source": "https://www.bose.com",
+      "guidelines": "https://www.bose.com/legal/terms-of-use"
+    }
+  },
+  {
+    "id": "beatsbydre",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "7affec2c9f71a6fb449f06215913fdad35aab4a37f9b01557740e5a9636ae333",
+    "metadata": {
+      "title": "Beats by Dre",
+      "slug": "beatsbydre",
+      "hex": "E01F3D",
+      "source": "https://www.beatsbydre.com"
+    }
+  },
+  {
+    "id": "sennheiser",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "14b777f97a45f3484ad61d9b438352f4c5729836a9f20cf016c9339c9d0d4640",
+    "metadata": {
+      "title": "Sennheiser",
+      "slug": "sennheiser",
+      "hex": "000000",
+      "source": "https://sennheiser.com"
+    }
+  },
+  {
+    "id": "jbl",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "d2921f06af09593f48fdd6e2bb82dcf1e2445e9d6beddf07812ea45c847238ef",
+    "metadata": {
+      "title": "JBL",
+      "slug": "jbl",
+      "hex": "FF3300",
+      "source": "https://www.jbl.com"
+    }
+  },
+  {
+    "id": "razer",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "e68b802b643535039c2cc4d50e0c4e9ee7811561b93c634876e9478e0886948b",
+    "metadata": {
+      "title": "Razer",
+      "slug": "razer",
+      "hex": "00FF00",
+      "source": "https://press.razer.com"
+    }
+  },
+  {
+    "id": "corsair",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "dd5ff396db570a9230405e169c3e447f2604c91cccf3627d86c68daf08cab081",
+    "metadata": {
+      "title": "Corsair",
+      "slug": "corsair",
+      "hex": "231F20",
+      "source": "https://www.corsair.com/newsroom/company-logos",
+      "guidelines": "https://www.corsair.com/newsroom/company-logos"
+    }
+  },
+  {
+    "id": "intel",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "25d0d4387af0999eb5dc79b165ecfd7b972ff43047406da533f3207ac92c0a57",
+    "metadata": {
+      "title": "Intel",
+      "slug": "intel",
+      "hex": "0071C5",
+      "source": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kits-intel-overview.html"
+    }
+  },
+  {
+    "id": "amd",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "c4c2f985dc1427aa7a54e3f80ef5ca35dba911bbed184a0dc6def148c1dfa420",
+    "metadata": {
+      "title": "AMD",
+      "slug": "amd",
+      "hex": "ED1C24",
+      "source": "https://www.amd.com"
+    }
+  },
+  {
+    "id": "nvidia",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "b0e4cfc12712c840d4d630c9a717200fbd09aeeadbd3faeac13bda2e2ed050b0",
+    "metadata": {
+      "title": "NVIDIA",
+      "slug": "nvidia",
+      "hex": "76B900",
+      "source": "https://www.nvidia.com/en-us"
+    }
+  },
+  {
+    "id": "dell",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "be787bc8a294cecf64f7197b36f3f095583b2274f13ab336e7dabfe582353c45",
+    "metadata": {
+      "title": "Dell",
+      "slug": "dell",
+      "hex": "007DB8",
+      "source": "https://www.dell.com",
+      "guidelines": "https://brand.delltechnologies.com/logos/"
+    }
+  },
+  {
+    "id": "hp",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "29c08a63cdea89850876a3840d93096b4125151dbba17a27926a08f9f3b0f788",
+    "metadata": {
+      "title": "HP",
+      "slug": "hp",
+      "hex": "0096D6",
+      "source": "https://brandcentral.hp.com/us/en/elements/hp-logo.html",
+      "guidelines": "https://brandcentral.hp.com/us/en/elements/hp-logo.html"
+    }
+  },
+  {
+    "id": "lenovo",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "6d2d3756e0b0dd70a7f8d678794b43c89eb08871a45bcd79ede8ecc64a6141ca",
+    "metadata": {
+      "title": "Lenovo",
+      "slug": "lenovo",
+      "hex": "E2231A",
+      "source": "https://news.lenovo.com/press-kits/"
+    }
+  },
+  {
+    "id": "asus",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "3c44aa3018aff929760e1812ee4bba3c77098ab5c9ea8a815b66f5c70f3074b4",
+    "metadata": {
+      "title": "ASUS",
+      "slug": "asus",
+      "hex": "000000",
+      "source": "https://www.asus.com"
+    }
+  },
+  {
+    "id": "acer",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "134f2083b4a00cab30b9af036392ae4fe85729ff8efe2ca62021ca1191a1f675",
+    "metadata": {
+      "title": "Acer",
+      "slug": "acer",
+      "hex": "83B81A",
+      "source": "https://www.acer.com"
+    }
+  },
+  {
+    "id": "google",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "d8cf9fb2d5e234e03254f1d6400d8cc8160c309b010d031a64f37084b5a21d01",
+    "metadata": {
+      "title": "Google",
+      "slug": "google",
+      "hex": "4285F4",
+      "source": "https://partnermarketinghub.withgoogle.com",
+      "guidelines": "https://about.google/brand-resource-center/brand-elements/",
+      "aliases": {
+        "loc": {
+          "ko-KR": "구글"
+        }
+      }
+    }
+  },
+  {
+    "id": "garmin",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "237bfaec6b489c8067ff5bc173bc1122b33f855a291376874b7d4cfc595643b8",
+    "metadata": {
+      "title": "Garmin",
+      "slug": "garmin",
+      "hex": "000000",
+      "source": "https://creative.garmin.com/styleguide/logo/",
+      "guidelines": "https://creative.garmin.com/styleguide/brand/"
+    }
+  },
+  {
+    "id": "spotify",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "b9ec9bec7769c35643981586d6ea0d675aaf3871b32f8a291bcac7a87fff0bc1",
+    "metadata": {
+      "title": "Spotify",
+      "slug": "spotify",
+      "hex": "1ED760",
+      "source": "https://developer.spotify.com/documentation/general/design-and-branding/#using-our-logo",
+      "guidelines": "https://developer.spotify.com/documentation/general/design-and-branding/#using-our-logo"
+    }
+  },
+  {
+    "id": "netflix",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "67dbc495988bd5667a09ed4f56e14db4070a44c7a74e297b146c229f70fd6f6e",
+    "metadata": {
+      "title": "Netflix",
+      "slug": "netflix",
+      "hex": "E50914",
+      "source": "https://brand.netflix.com/en/assets/logos",
+      "guidelines": "https://brand.netflix.com/en/assets/logos"
+    }
+  },
+  {
+    "id": "youtube",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "5038808acbbc4e6edda16cbeb1cc6dec80e4e4ee4e227e039c41229fa222aa8c",
+    "metadata": {
+      "title": "YouTube",
+      "slug": "youtube",
+      "hex": "FF0000",
+      "source": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors",
+      "guidelines": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors"
+    }
+  },
+  {
+    "id": "tiktok",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "6f54ac8d325faacea8935bdc44cbed60206a6b408641799e5fea1cba7c1a0af7",
+    "metadata": {
+      "title": "TikTok",
+      "slug": "tiktok",
+      "hex": "000000",
+      "source": "https://tiktok.com"
+    }
+  },
+  {
+    "id": "instagram",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "f53af2d1fc5292ba1433b5c1faf50005ce6a997fa302d1816989929f379a59dc",
+    "metadata": {
+      "title": "Instagram",
+      "slug": "instagram",
+      "hex": "FF0069",
+      "source": "https://about.meta.com/brand/resources/instagram",
+      "guidelines": "https://about.meta.com/brand/resources/instagram"
+    }
+  },
+  {
+    "id": "discord",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "1d364b72c9eaf1fe37d17ca88cd8fb541308dc0f3b09e2ab3b824f380b3493d5",
+    "metadata": {
+      "title": "Discord",
+      "slug": "discord",
+      "hex": "5865F2",
+      "source": "https://discord.com/branding",
+      "guidelines": "https://discord.com/branding"
+    }
+  },
+  {
+    "id": "figma",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "2f86fca501dfed321a62f28743f29d9dd738dac91668eac5260ab746d1ef8840",
+    "metadata": {
+      "title": "Figma",
+      "slug": "figma",
+      "hex": "F24E1E",
+      "source": "https://www.figma.com/using-the-figma-brand/",
+      "guidelines": "https://www.figma.com/using-the-figma-brand/"
+    }
+  },
+  {
+    "id": "notion",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "b17d2a2b592a06252efef522d5205f0c7a958f748d40df1011ed081417e42f85",
+    "metadata": {
+      "title": "Notion",
+      "slug": "notion",
+      "hex": "000000",
+      "source": "https://www.notion.so"
+    }
+  },
+  {
+    "id": "ikea",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "556365e562c933b6296c3480902ca6e1921ba4265030c49c27869fca5044f7d8",
+    "metadata": {
+      "title": "IKEA",
+      "slug": "ikea",
+      "hex": "0058A3",
+      "source": "https://www.ikea.com"
+    }
+  },
+  {
+    "id": "starbucks",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "b12ac9042b77a04d88f28e5be655719dd1e321b0b700ea5a280df4e1ca8c23c8",
+    "metadata": {
+      "title": "Starbucks",
+      "slug": "starbucks",
+      "hex": "006241",
+      "source": "https://starbucks.com",
+      "guidelines": "https://creative.starbucks.com"
+    }
+  },
+  {
+    "id": "redbull",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "731284f4a061e181bb50987ba0d880c04ba8155fee168f4716f258275731ad49",
+    "metadata": {
+      "title": "Red Bull",
+      "slug": "redbull",
+      "hex": "DB0A40",
+      "source": "https://www.redbull.com"
+    }
+  },
+  {
+    "id": "airbnb",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "04afb2a1db3f619be9030b38fd43440034a58db16adc8fed49de87b90b9e2778",
+    "metadata": {
+      "title": "Airbnb",
+      "slug": "airbnb",
+      "hex": "FF5A5F",
+      "source": "https://www.airbnb.com"
+    }
+  },
+  {
+    "id": "uber",
+    "collection": "Simple Icons",
+    "version": "16.34.0",
+    "sha256": "8e580232236d43c715637618ce31621f2afc802a22af9b12706dc153c6a52002",
+    "metadata": {
+      "title": "Uber",
+      "slug": "uber",
+      "hex": "000000",
+      "source": "https://assets.uber.com/d/k4nuxdZ8MC7E/logos/collection/151",
+      "guidelines": "https://assets.uber.com/d/k4nuxdZ8MC7E/user-guide#/user-guide/terms-of-use"
+    }
+  },
+  {
+    "id": "rolex",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Rolex_wordmark_logo.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rolex_wordmark_logo.svg",
+    "sha256": "d01431fe9a0fc6b0f5a4cc85138f8b9410e851e1313dfd766d489e8a918e3b7a",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-11-27 08:42:14",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Rolex wordmark logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|SVG logos of manufacturing companies|SVG green text logos|Logos of watch brands|Rolex logos|2002 logos",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Wordmark logo of Rolex",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2002",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "www.rolex.com",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Rolex SA",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "omega",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Omega_Logo.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Omega_Logo.svg",
+    "sha256": "ee66ed408f079b13d4537a3b498c6198a298e8188265e5143e51ed0fbfe503c0",
+    "metadata": {
+      "DateTime": {
+        "value": "2010-02-16 02:38:09",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Omega Logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|Omega SA|Omega (letter)|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|2 rows logos|SVG logos of manufacturing companies|Logos of companies based in the canton of Bern|SVG red text logos|Logos of watch brands",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Logo of Omega",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-02-16",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.omegawatches.com/\">http://www.omegawatches.com/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Omega",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "seiko",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Seiko_logo.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Seiko_logo.svg",
+    "sha256": "14d7ce0c830768ff446c91636dc18dd1d4c170c56785764e77ba337515f03e61",
+    "metadata": {
+      "DateTime": {
+        "value": "2016-07-10 16:27:55",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Seiko logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Seiko|With trademark|Files with broken file links|PD textlogo|SVG simple text logos|5 letter alphabet logos of Japan|Valid SVG created with Adobe Illustrator:Text logos|Black alphabet logos of Japan|SVG logos of manufacturing companies of Japan|Serif logos|Logos of watch brands",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Logo of <a href=\"https://en.wikipedia.org/wiki/Seiko\" class=\"extiw\" title=\"w:Seiko\">Seiko</a>.",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Own work using: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.seiko.co.jp/en/contribution/sustainability/download.html\">http://www.seiko.co.jp/en/contribution/sustainability/download.html</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Seiko",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "tissot",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Tissot_Logo.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Tissot_Logo.svg",
+    "sha256": "1f0e15d5a8a2e7966ed1da1832602870e89dd1d9350c5742f57d12587ed61e7c",
+    "metadata": {
+      "DateTime": {
+        "value": "2011-03-07 18:38:04",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Tissot Logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Tissot|With trademark|Images with annotations|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|SVG variations on the national flag of Switzerland|Valid SVG extracted with Inkscape:Text logos|Logos of companies based in the canton of Neuchâtel|Logos of watch brands",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "New Logo of Tissot",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2025-07-07",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://assets.tissotwatches.com/m/3f33cdde00e7533/original/TIS-Logotype-CMYK-International-Vertical-Color-Positive.png\">http://assets.tissotwatches.com/m/3f33cdde00e7533/original/TIS-Logotype-CMYK-International-Vertical-Color-Positive.png</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Tissot",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "casio",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Casio_logo.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Casio_logo.svg",
+    "sha256": "57c44104b0b41b7ac045040a23affb18d19c9fb51e7b5d18e90947f5468225ca",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-10-19 18:26:27",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Casio logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Casio|With trademark|Eurostile|PD textlogo|SVG text logos|5 letter alphabet logos of Japan|Valid SVG created with Adobe Illustrator:Text logos|Blue alphabet logos of Japan|SVG logos of manufacturing companies of Japan|SVG logos of technology companies",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "The logo of <i>Casio</i>, which is owned by <i>Casio Computer Co., Ltd.</i>.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2008-04-13",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/User:Tkgd2007\" class=\"extiw\" title=\"en:User:Tkgd2007\">Tkgd2007</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "swatch",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Swatch_Logo.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Swatch_Logo.svg",
+    "sha256": "1d5c934a7307217af7586fabc9dd19b5885517c6c45394ead5debb5c892b5691",
+    "metadata": {
+      "DateTime": {
+        "value": "2010-12-06 20:41:05",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Swatch Logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|SVG logos of companies of Switzerland|Template Unknown (author)|SVG logos of manufacturing companies|Swatch logos",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://de.wikipedia.org/wiki/Firmenlogo\" class=\"extiw\" title=\"de:Firmenlogo\">Logo</a> von <a href=\"https://de.wikipedia.org/wiki/Swatch\" class=\"extiw\" title=\"de:Swatch\">Swatch</a>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "13 May 2007 (original upload date)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a href=\"https://de.wikipedia.org/wiki/SVG\" class=\"extiw\" title=\"de:SVG\">SVG</a> erstellt mit <a href=\"https://de.wikipedia.org/wiki/Inkscape\" class=\"extiw\" title=\"de:Inkscape\">Inkscape</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "tagheuer",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:TAG_Heuer_Logo.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/d/de/TAG_Heuer_Logo.svg",
+    "sha256": "3b4da81679ef21fb9f1ed4e33cba919ca60415da21d87ce424aedcf4450f33b1",
+    "metadata": {
+      "DateTime": {
+        "value": "2020-03-26 04:29:33",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "TAG Heuer Logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Template Unknown (author)|Valid SVG created with Inkscape:Text logos|TAG Heuer logos",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://de.wikipedia.org/wiki/Firmenlogo\" class=\"extiw\" title=\"de:Firmenlogo\">Logo</a>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a href=\"https://de.wikipedia.org/wiki/SVG\" class=\"extiw\" title=\"de:SVG\">SVG</a> erstellt mit <a href=\"https://de.wikipedia.org/wiki/Inkscape\" class=\"extiw\" title=\"de:Inkscape\">Inkscape</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "citizen",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Citizen_logo.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/5/51/Citizen_logo.svg",
+    "sha256": "a86d789cee3c2cb937f8bed68fefad692ab6cf9a7dca22439fdc9970966e532c",
+    "metadata": {
+      "DateTime": {
+        "value": "2016-11-06 14:59:45",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Citizen logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Citizen (watch)|With trademark|PD textlogo|SVG simple text logos|Template Unknown (author)|7 letter alphabet logos of Japan|Black alphabet logos of Japan|SVG logos of manufacturing companies|Black logos with transparent background|Serif logos|Logos of watch brands|Citizen (text)|SVG logos of fashion companies of Japan",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A logo of <a href=\"https://en.wikipedia.org/wiki/Citizen_Holdings\" class=\"extiw\" title=\"en:Citizen Holdings\">Citizen</a>.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "17 April 2008 (original upload date)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "PNG von Citizen",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<p>Unknown author<span style=\"display: none;\">Unknown author</span>\n</p>\n<a href=\"https://de.wikipedia.org/wiki/User:Marsupilami\" class=\"extiw\" title=\"de:User:Marsupilami\">Marsupilami</a> at <a class=\"external text\" data-mw-original-href=\"http://de.wikipedia.org\" href=\"https://de.wikipedia.org\">de.wikipedia</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "gucci",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Gucci_Logo.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Gucci_Logo.svg",
+    "sha256": "7fffc4c3cf3e582abb7f3bc8cb84d2aaf7a142c9dc27e9a8115e5eb92f29f60c",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-12-09 22:48:22",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Gucci Logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Valid SVG created with Inkscape:Text logos|TOO-Italy|SVG black text logos|SVG logos of Gucci",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Logo of Gucci",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-09-16",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.gucci.com/documents/Corporate_Sustainability_Resposability_Policy.pdf\">https://www.gucci.com/documents/Corporate_Sustainability_Resposability_Policy.pdf</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Gucci",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "Italy has a very high threshold-of-originality standard. Hogan Lovells states that \"In summary, the threshold for an industrial design product to enjoy copyright protection is still quite high and even famous industrial design products have been denied such protection by Italian Courts.\" This likely also applies to logos. For example, the logo of <a href=\"https://en.wikipedia.org/wiki/en:A.C._Milan\" class=\"extiw\" title=\"w:en:A.C. Milan\">A.C. Milan</a> is not copyrighted. See <a href=\"//commons.wikimedia.org/wiki/Commons:CRT/Italy#Threshold_of_originality\" class=\"mw-redirect\" title=\"Commons:CRT/Italy\">COM:CRT/Italy#Threshold of originality</a> for more information.",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "assetNormalization": "Redundant oversized rectangular clipping removed for Xcode SVG compatibility; letter paths, transforms and colors unchanged.",
+    "assetSHA256": "b1ddf7d8913a2a818b085adf9981143d7d9c4b86a7f917b1267bf62ec98b8735"
+  },
+  {
+    "id": "prada",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Prada-Logo.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Prada-Logo.svg",
+    "sha256": "8700a055b7e75deb906e802acd251fcf84344c0ab42eddc1367dfab42b747850",
+    "metadata": {
+      "DateTime": {
+        "value": "2020-05-20 12:57:37",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Prada-Logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|TOO-Italy|SVG logos of Prada",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "The logo of <a href=\"https://en.wikipedia.org/wiki/Prada\" class=\"extiw\" title=\"w:Prada\">Prada</a>.",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://worldvectorlogo.com/logo/prada\">https://worldvectorlogo.com/logo/prada</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Prada S.p.A.",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "Italy has a very high threshold-of-originality standard. Hogan Lovells states that \"In summary, the threshold for an industrial design product to enjoy copyright protection is still quite high and even famous industrial design products have been denied such protection by Italian Courts.\" This likely also applies to logos. For example, the logo of <a href=\"https://en.wikipedia.org/wiki/en:A.C._Milan\" class=\"extiw\" title=\"w:en:A.C. Milan\">A.C. Milan</a> is not copyrighted. See <a href=\"//commons.wikimedia.org/wiki/Commons:CRT/Italy#Threshold_of_originality\" class=\"mw-redirect\" title=\"Commons:CRT/Italy\">COM:CRT/Italy#Threshold of originality</a> for more information.",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "chanel",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Chanel_logo.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/Chanel_logo.svg",
+    "sha256": "5af1915fa3cdd548c2635493f1cff8539664ec34d9e35945cbab0e16b79d1cad",
+    "metadata": {
+      "DateTime": {
+        "value": "2015-12-11 18:53:09",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Chanel logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Template Unknown (author)|Valid SVG created with Inkscape:Text logos|TOO-France|SVG black text logos|SVG logos of Chanel",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://de.wikipedia.org/wiki/Chanel\" class=\"extiw\" title=\"de:Chanel\">Chanel</a>-Logo",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2008-10-20",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Own work using: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.brandsoftheworld.com/search/68351561/1165.html\">http://www.brandsoftheworld.com/search/68351561/1165.html</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "louisvuitton",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Louis_Vuitton_logo_and_wordmark.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/7/76/Louis_Vuitton_logo_and_wordmark.svg",
+    "sha256": "98a8d4a3beaa6020ca246505aac7361073fec48a880e105541049512258c2e82",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-02-07 05:22:02",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Louis Vuitton logo and wordmark",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Valid SVG created with Inkscape:Text logos|Louis Vuitton “LV” wordmark|Logos of companies based in Paris|SVG logos of Louis Vuitton",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Logo of <a href=\"//commons.wikimedia.org/wiki/Category:Louis_Vuitton\" title=\"Category:Louis Vuitton\">Louis Vuitton</a>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Own work using: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.louisvuitton.com\">https://www.louisvuitton.com</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Louis Vuitton",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "burberry",
+    "collection": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Burberry_Logo.svg",
+    "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/d/df/Burberry_Logo.svg",
+    "sha256": "da121ad64cae3126ebf86ace9cfbb3ab30275f977a09bd6d2aff1899e812e102",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-08-07 15:49:12",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Burberry Logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG simple text logos|Valid SVG created with Adobe Illustrator:Text logos|SVG black text logos|SVG logos of Burberry|2018 SVG logos",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Burberry Logo used from 2018 to 2023",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018-08-07",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Own work using: <a rel=\"nofollow\" class=\"external free\" href=\"https://burberry.com\">https://burberry.com</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Burberry Group",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+]

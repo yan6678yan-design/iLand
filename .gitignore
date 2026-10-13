@@ -1,0 +1,19 @@
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+
+# Local tools, credentials and generated distribution artifacts
+node_modules/
+.wrangler/
+.env
+.env.*
+!.env.example
+*.p8
+*.p12
+*.mobileprovision
+*.ipa
+*.xcarchive/
+*.xcresult/
+Website/dist/

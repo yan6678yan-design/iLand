@@ -1,0 +1,24 @@
+Deine Island. Dein Design.
+
+Mit iLand gestaltest du persönliche Live Activities für die Dynamic Island und den Sperrbildschirm deines iPhones. Wähle eine Vorlage oder erstelle dein eigenes Design – mit deinen Texten, Farben, Symbolen, Emojis und Bildern.
+
+DEIN PERSÖNLICHER LOOK
+Passe Titel, Untertitel und Status an. Wähle System-Symbole und Emojis oder importiere ein eigenes Bild über die Fotoauswahl. Speichere mehrere Designs und markiere deine Favoriten.
+
+GESTALTE BIS INS DETAIL
+In der erweiterten Layout-Bearbeitung kannst du Elemente verschieben, vergrößern, drehen oder entfernen. Die kompakte und erweiterte Vorschau helfen dir, dein Design vor dem Start abzustimmen.
+
+TIMER UND REISE
+Starte einen Fokus-Timer, pausiere ihn oder setze ihn zurück. Erstelle eine Reiseaktivität mit deinen eigenen Reisedaten und einem Countdown. Die App ruft keine Live-Flugdaten ab.
+
+DEINE REGELN
+Kombiniere Bedingungen für Uhrzeit, gespeicherte Orte oder Kalenderereignisse. Regeln werden geprüft, während iLand geöffnet ist. Eine dauerhafte automatische Ausführung im Hintergrund wird nicht angeboten.
+
+DEINE VERKNÜPFUNGEN
+Hinterlege eine Webseite oder einen unterstützten Deep Link als Aktion für dein Design. Weblinks werden an deinen Standardbrowser übergeben.
+
+LOKAL UND PERSÖNLICH
+Deine Designs und Einstellungen bleiben auf deinem Gerät. Standort und Kalender sind freiwillig und werden nur mit deiner Zustimmung verwendet. Kein Konto, keine Werbung und kein Tracking.
+
+WICHTIG ZU LIVE ACTIVITIES
+Die Dynamic Island benötigt ein entsprechend ausgestattetes iPhone. Auf anderen unterstützten iPhones erscheinen Live Activities auf dem Sperrbildschirm. iLand benötigt iOS 17 oder neuer. iOS bestimmt Anzeige und Laufzeit der Aktivitäten. Die App gestaltet ihre eigenen Live Activities und verändert keine systemweiten Inhalte der Dynamic Island.

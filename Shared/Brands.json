@@ -1,0 +1,702 @@
+[
+  {
+    "id": "acer",
+    "name": "Acer",
+    "category": "Tech",
+    "source": "https://www.acer.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "acura",
+    "name": "Acura",
+    "category": "Autos",
+    "source": "https://www.acura.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "adidas",
+    "name": "Adidas",
+    "category": "Mode",
+    "source": "https://www.adidas.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "airbnb",
+    "name": "Airbnb",
+    "category": "Lifestyle",
+    "source": "https://www.airbnb.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "amd",
+    "name": "AMD",
+    "category": "Tech",
+    "source": "https://www.amd.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "category": "Tech",
+    "source": "https://www.apple.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "astonmartin",
+    "name": "Aston Martin",
+    "category": "Autos",
+    "source": "https://www.astonmartin.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "asus",
+    "name": "ASUS",
+    "category": "Tech",
+    "source": "https://www.asus.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "audi",
+    "name": "Audi",
+    "category": "Autos",
+    "source": "https://www.audi.com/ci/en/intro/basics/rings.html",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "beatsbydre",
+    "name": "Beats by Dre",
+    "category": "Tech",
+    "source": "https://www.beatsbydre.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "bentley",
+    "name": "Bentley",
+    "category": "Autos",
+    "source": "https://en.wikipedia.org/wiki/File:Bentley_logo_2.svg",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "bmw",
+    "name": "BMW",
+    "category": "Autos",
+    "source": "https://bmw.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "bose",
+    "name": "Bose",
+    "category": "Tech",
+    "source": "https://www.bose.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "bugatti",
+    "name": "Bugatti",
+    "category": "Autos",
+    "source": "https://newsroom.bugatti.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "burberry",
+    "name": "Burberry",
+    "category": "Mode",
+    "source": "https://commons.wikimedia.org/wiki/File:Burberry_Logo.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "cadillac",
+    "name": "Cadillac",
+    "category": "Autos",
+    "source": "https://www.cadillac.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "casio",
+    "name": "Casio",
+    "category": "Uhren",
+    "source": "https://commons.wikimedia.org/wiki/File:Casio_logo.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "chanel",
+    "name": "Chanel",
+    "category": "Mode",
+    "source": "https://commons.wikimedia.org/wiki/File:Chanel_logo.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "chevrolet",
+    "name": "Chevrolet",
+    "category": "Autos",
+    "source": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/shopping-tools/download-catalog/02-pdf/2019-chevrolet-corvette-catalog.pdf",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "chrysler",
+    "name": "Chrysler",
+    "category": "Autos",
+    "source": "https://www.stellantis.com/en/brands/chrysler",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "citizen",
+    "name": "Citizen",
+    "category": "Uhren",
+    "source": "https://commons.wikimedia.org/wiki/File:Citizen_logo.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "citroen",
+    "name": "Citroën",
+    "category": "Autos",
+    "source": "https://www.stellantis.com/en/brands/citroen",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "corsair",
+    "name": "Corsair",
+    "category": "Tech",
+    "source": "https://www.corsair.com/newsroom/company-logos",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "dacia",
+    "name": "Dacia",
+    "category": "Autos",
+    "source": "https://commons.wikimedia.org/wiki/File:Dacia-Logo-2021.svg",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "dell",
+    "name": "Dell",
+    "category": "Tech",
+    "source": "https://www.dell.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "dior",
+    "name": "Dior",
+    "category": "Mode",
+    "source": "https://www.dior.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "category": "Lifestyle",
+    "source": "https://discord.com/branding",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "ferrari",
+    "name": "Ferrari",
+    "category": "Autos",
+    "source": "https://www.ferrari.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "category": "Lifestyle",
+    "source": "https://www.figma.com/using-the-figma-brand/",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "fila",
+    "name": "Fila",
+    "category": "Mode",
+    "source": "https://www.fila.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "ford",
+    "name": "Ford",
+    "category": "Autos",
+    "source": "https://secure.ford.com/brochures/",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "garmin",
+    "name": "Garmin",
+    "category": "Tech",
+    "source": "https://creative.garmin.com/styleguide/logo/",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "category": "Tech",
+    "source": "https://partnermarketinghub.withgoogle.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "gucci",
+    "name": "Gucci",
+    "category": "Mode",
+    "source": "https://commons.wikimedia.org/wiki/File:Gucci_Logo.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "hermes",
+    "name": "Hermes",
+    "category": "Mode",
+    "source": "https://www.myhermes.de/assets/touchicons/favicon.svg",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "honda",
+    "name": "Honda",
+    "category": "Autos",
+    "source": "https://www.honda.ie",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "hp",
+    "name": "HP",
+    "category": "Tech",
+    "source": "https://brandcentral.hp.com/us/en/elements/hp-logo.html",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "hyundai",
+    "name": "Hyundai",
+    "category": "Autos",
+    "source": "https://www.hyundai.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "ikea",
+    "name": "IKEA",
+    "category": "Lifestyle",
+    "source": "https://www.ikea.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "infiniti",
+    "name": "INFINITI",
+    "category": "Autos",
+    "source": "https://www.infiniti.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "category": "Lifestyle",
+    "source": "https://about.meta.com/brand/resources/instagram",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "intel",
+    "name": "Intel",
+    "category": "Tech",
+    "source": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kits-intel-overview.html",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "jbl",
+    "name": "JBL",
+    "category": "Tech",
+    "source": "https://www.jbl.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "jeep",
+    "name": "Jeep",
+    "category": "Autos",
+    "source": "https://commons.wikimedia.org/wiki/File:Jeep_logo.svg",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "category": "Mode",
+    "source": "https://www.nike.com/jordan",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "kia",
+    "name": "Kia",
+    "category": "Autos",
+    "source": "https://www.kia.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "lamborghini",
+    "name": "Lamborghini",
+    "category": "Autos",
+    "source": "https://www.lamborghini.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "lenovo",
+    "name": "Lenovo",
+    "category": "Tech",
+    "source": "https://news.lenovo.com/press-kits/",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "louisvuitton",
+    "name": "Louis Vuitton",
+    "category": "Mode",
+    "source": "https://commons.wikimedia.org/wiki/File:Louis_Vuitton_logo_and_wordmark.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "maserati",
+    "name": "Maserati",
+    "category": "Autos",
+    "source": "https://www.stellantis.com/en/brands/maserati",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "mazda",
+    "name": "Mazda",
+    "category": "Autos",
+    "source": "https://www.mazda.com/en/about/profile/library/",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "mclaren",
+    "name": "McLaren",
+    "category": "Autos",
+    "source": "https://cars.mclaren.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "mini",
+    "name": "Mini",
+    "category": "Autos",
+    "source": "https://mini.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "mitsubishi",
+    "name": "Mitsubishi",
+    "category": "Autos",
+    "source": "https://www.mitsubishi.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "category": "Lifestyle",
+    "source": "https://brand.netflix.com/en/assets/logos",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "newbalance",
+    "name": "New Balance",
+    "category": "Mode",
+    "source": "https://www.newbalance.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "nike",
+    "name": "Nike",
+    "category": "Mode",
+    "source": "https://www.nike.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "nissan",
+    "name": "Nissan",
+    "category": "Autos",
+    "source": "https://www.nissan.ie",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "category": "Lifestyle",
+    "source": "https://www.notion.so",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "nvidia",
+    "name": "NVIDIA",
+    "category": "Tech",
+    "source": "https://www.nvidia.com/en-us",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "omega",
+    "name": "Omega",
+    "category": "Uhren",
+    "source": "https://commons.wikimedia.org/wiki/File:Omega_Logo.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "opel",
+    "name": "Opel",
+    "category": "Autos",
+    "source": "https://www.stellantis.com/en/brands/opel",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "peugeot",
+    "name": "Peugeot",
+    "category": "Autos",
+    "source": "https://www.peugeot.co.uk",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "playstation",
+    "name": "PlayStation",
+    "category": "Tech",
+    "source": "https://www.playstation.com/en-us/",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "polestar",
+    "name": "Polestar",
+    "category": "Autos",
+    "source": "https://commons.wikimedia.org/wiki/File:Polestar_logo_2020.svg",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "porsche",
+    "name": "Porsche",
+    "category": "Autos",
+    "source": "https://www.porsche.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "prada",
+    "name": "Prada",
+    "category": "Mode",
+    "source": "https://commons.wikimedia.org/wiki/File:Prada-Logo.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "puma",
+    "name": "Puma",
+    "category": "Mode",
+    "source": "https://us.puma.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "ram",
+    "name": "Ram",
+    "category": "Autos",
+    "source": "https://www.fcaci.com/x/RAMv15",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "razer",
+    "name": "Razer",
+    "category": "Tech",
+    "source": "https://press.razer.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "redbull",
+    "name": "Red Bull",
+    "category": "Lifestyle",
+    "source": "https://www.redbull.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "reebok",
+    "name": "Reebok",
+    "category": "Mode",
+    "source": "https://www.reebok.com/us",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "renault",
+    "name": "Renault",
+    "category": "Autos",
+    "source": "https://media.renaultgroup.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "rolex",
+    "name": "Rolex",
+    "category": "Uhren",
+    "source": "https://commons.wikimedia.org/wiki/File:Rolex_wordmark_logo.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "rollsroyce",
+    "name": "Rolls-Royce",
+    "category": "Autos",
+    "source": "https://www.rolls-roycemotorcars.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "samsung",
+    "name": "Samsung",
+    "category": "Tech",
+    "source": "https://www.samsung.com/us/about-us/brand-identity/logo/",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "seat",
+    "name": "SEAT",
+    "category": "Autos",
+    "source": "https://www.seat.es",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "seiko",
+    "name": "Seiko",
+    "category": "Uhren",
+    "source": "https://commons.wikimedia.org/wiki/File:Seiko_logo.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "sennheiser",
+    "name": "Sennheiser",
+    "category": "Tech",
+    "source": "https://sennheiser.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "sony",
+    "name": "Sony",
+    "category": "Tech",
+    "source": "https://www.sony.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "category": "Lifestyle",
+    "source": "https://developer.spotify.com/documentation/general/design-and-branding/#using-our-logo",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks",
+    "category": "Lifestyle",
+    "source": "https://starbucks.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "subaru",
+    "name": "Subaru",
+    "category": "Autos",
+    "source": "https://commons.wikimedia.org/wiki/File:Subaru_logo.svg",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "suzuki",
+    "name": "Suzuki",
+    "category": "Autos",
+    "source": "https://www.suzuki.ie",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "swatch",
+    "name": "Swatch",
+    "category": "Uhren",
+    "source": "https://commons.wikimedia.org/wiki/File:Swatch_Logo.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "tagheuer",
+    "name": "TAG Heuer",
+    "category": "Uhren",
+    "source": "https://commons.wikimedia.org/wiki/File:TAG_Heuer_Logo.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "tesla",
+    "name": "Tesla",
+    "category": "Autos",
+    "source": "https://www.tesla.com/tesla-gallery",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "thenorthface",
+    "name": "The North Face",
+    "category": "Mode",
+    "source": "https://www.thenorthface.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "category": "Lifestyle",
+    "source": "https://tiktok.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "tissot",
+    "name": "Tissot",
+    "category": "Uhren",
+    "source": "https://commons.wikimedia.org/wiki/File:Tissot_Logo.svg",
+    "credit": "Wikimedia Commons · Public domain"
+  },
+  {
+    "id": "toyota",
+    "name": "Toyota",
+    "category": "Autos",
+    "source": "https://www.toyota.com/brandguidelines/logo/",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "uber",
+    "name": "Uber",
+    "category": "Lifestyle",
+    "source": "https://assets.uber.com/d/k4nuxdZ8MC7E/logos/collection/151",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "underarmour",
+    "name": "Under Armour",
+    "category": "Mode",
+    "source": "https://www.underarmour.com/en-us",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "uniqlo",
+    "name": "Uniqlo",
+    "category": "Mode",
+    "source": "https://www.uniqlo.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "volkswagen",
+    "name": "Volkswagen",
+    "category": "Autos",
+    "source": "https://www.vw.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "volvo",
+    "name": "Volvo",
+    "category": "Autos",
+    "source": "https://www.media.volvocars.com/global/en-gb/logos",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "category": "Lifestyle",
+    "source": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "zalando",
+    "name": "Zalando",
+    "category": "Mode",
+    "source": "https://www.zalando.co.uk",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "zara",
+    "name": "Zara",
+    "category": "Mode",
+    "source": "https://www.zara.com",
+    "credit": "Simple Icons 16.34.0"
+  },
+  {
+    "id": "skoda",
+    "name": "ŠKODA",
+    "category": "Autos",
+    "source": "https://www.skoda-connect.com",
+    "credit": "Simple Icons 16.34.0"
+  }
+]

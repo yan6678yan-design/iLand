@@ -1,0 +1,16 @@
+iLand is a German-language iPhone utility for creating and managing local Live Activities with ActivityKit, WidgetKit and App Intents. No login, subscription, purchase or server account is required.
+
+REVIEW WALKTHROUGH
+1. Open the Designs tab and select Deep Focus.
+2. Tap Erweitert for the expanded preview, then Als Live Activity aktivieren to start the timer.
+3. Use Pause / Fortsetzen and Zurücksetzen. Long-press Dynamic Island on a supported iPhone to see the expanded Live Activity. On other supported iPhones, use the Lock Screen.
+4. End it using Live Activity beenden.
+5. Select Zuhause, tap Bearbeiten and customize text, symbols, colors or a locally selected photo. Layout direkt bearbeiten offers element positioning, sizing and rotation. Save using Sichern.
+6. Open Regeln to configure optional rules. Rules are evaluated while the app is in the foreground; there is no promise of continuous background automation.
+7. Settings (Einstellungen) contains Datenschutz & Daten, permission information, support, the privacy policy and local data deletion.
+
+Location and calendar permissions are optional. The core designer and timer work without either permission. Photos use Apple's system picker. There is no analytics SDK, advertising or tracking. User data is stored locally. User-configured website links open externally; there is no unrestricted embedded browser or public content-sharing service.
+
+The app does not replace or override system Dynamic Island content. iOS controls visibility, interaction and duration. Travel details are entered by the user; no flight-data service is claimed. This shipping version includes Custom, Timer and Reise designs. It does not include third-party brand catalogs or stock/crypto market services.
+
+Review does not require a demo account or special configuration. An iPhone with Dynamic Island is recommended to evaluate all presentation states.
